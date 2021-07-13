@@ -1,0 +1,4 @@
+1. decide what business to order a pizza from.
+2. decide what type of pizza to order.
+3. Choice any additonal toppings and items to go along with the order
+4. process payment and wait for delivery or proceed to pick up the pizza. 
